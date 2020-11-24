@@ -1,8 +1,5 @@
+#### Hi there :v
 ```python
-"""
-about me :v
-"""
-
 chandima = ComputerEngineer(
   education = {
     "university"  : "University of Peradeniya, Sri Lanka",
@@ -18,3 +15,4 @@ chandima = ComputerEngineer(
   ]
 )
 ```
+[website](https://sausecode.com) | [about me](https://sausecode.com/chandima) | [blog](https://sausecode.com/blog) | [linkedin](https://www.linkedin.com/in/chandimab/) | [hackerrank](https://www.hackerrank.com/chandimab)
